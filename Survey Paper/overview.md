@@ -1,3 +1,6 @@
+# Formal Verification — Complete Overview
+
+```text
 Formal Verification
 │
 ├── Specification
@@ -16,6 +19,7 @@ Formal Verification
 │       │   ├── Behavioral
 │       │   ├── Data
 │       │   └── Temporal
+│       │
 │       └── Refinement
 │
 ├── Verification
